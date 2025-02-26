@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+using namespace std;
+int main(int) 
+{
+int f;
+int t;
+cin >> f;
+cin >> t;
+cout << (f+t) <<" ";
+cout << (f-t) <<" ";
+cout << (f*t) <<" ";
+}
